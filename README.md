@@ -6,7 +6,7 @@ Welcome to the Keyboard Shortcuts repository for Visual Studio Code. Here you ca
 ## Table of Contents
 
 - [General](#general)
-- [Basic Editing](#basic-editing)
+- [Useful Shortcuts](#useful-shortcuts)
 
 
 ## General
@@ -27,8 +27,7 @@ Welcome to the Keyboard Shortcuts repository for Visual Studio Code. Here you ca
 | `Ctrl + Z` | Undo |
 | `Ctrl + Shift + Z` | Redo |
 
-## Editing code
-
+## Useful Shortcuts
 
 <table>
   <tr>
@@ -39,41 +38,46 @@ Welcome to the Keyboard Shortcuts repository for Visual Studio Code. Here you ca
   <tr>
     <td>Ctrl + /</td>
     <td>Toggle line comment</td>
-    <td><img src="https://i.ibb.co/gVqPMNh/ctrl.gif" alt="ctrl" border="0"></td>
+    <td><img src="https://github.com/Neoblacks/Vscode-Shortcuts/blob/main/ressources/ctrl+%3F.gif?raw=true" alt="ctrl" border="0"></td>
   </tr>
   <tr>
     <td>Ctrl + Shift + A</td>
     <td>Toggle block comment</td>
-    <td><img src="https://i.ibb.co/7zX90Gv/ctrl-shift-a.gif" alt="ctrl-shift-a" border="0"></td>
+    <td><img src="https://github.com/Neoblacks/Vscode-Shortcuts/blob/main/ressources/ctrl%20+%20shift%20+%20a.gif?raw=true" alt="ctrl-shift-a" border="0"></td>
   </tr>
   <tr>
     <td>Alt + Arrow</td>
     <td>Move line up or down</td>
-    <td><img src="https://i.ibb.co/ZH9V5x2/Alt-Arrow.gif" alt="Alt-Arrow" border="0"></td>
+    <td><img src="https://github.com/Neoblacks/Vscode-Shortcuts/blob/main/ressources/Alt+Arrow.gif?raw=true" alt="Alt-Arrow" border="0"></td>
   </tr>
   <tr>
-    <td>Ctrl + Shift + Tab</td>
+    <td>Shift + Tab</td>
     <td>Remove one tabulation indentation</td>
-    <td><img src="https://i.ibb.co/r2sbRtW/shift-tab.gif" alt="shift-tab" border="0"></td>
+    <td><img src="https://github.com/Neoblacks/Vscode-Shortcuts/blob/main/ressources/shift+tab.gif?raw=true" alt="shift-tab" border="0"></td>
   </tr>
   <tr>
     <td>Ctrl + D</td>
     <td>Select the next occurrence of the current word</td>
-    <td><img src="https://i.ibb.co/VHCvh32/Ctrld-d.gif" alt="Ctrld-d" border="0"></td>
+    <td><img src="https://github.com/Neoblacks/Vscode-Shortcuts/blob/main/ressources/Ctrld%20+%20d.gif?raw=true" alt="Ctrld-d" border="0"></td>
   </tr>
   <tr>
 	<td>Ctrl + L</td>
 	<td>Select line or few lines</td>
-	<td><img src="https://i.ibb.co/hfh6QxD/Ctrl-l-and-tab-or-Shift-tab.gif" alt="Ctrl-l-and-tab-or-Shift-tab" border="0"></td>
+	<td><img src="https://github.com/Neoblacks/Vscode-Shortcuts/blob/main/ressources/Ctrl%20+%20l%20and%20tab%20or%20Shift%20tab.gif?raw=true" alt="Ctrl-l-and-tab-or-Shift-tab" border="0"></td>
   </tr>
   <tr>
 	<td>Ctrl + K + Ctrl + F</td>
 	<td>Indent correctly all selection</td>
-	<td><img src="https://i.ibb.co/8rxjrWw/Ctrl-k-and-Ctrl-f.gif" alt="Ctrl-k-and-Ctrl-f" border="0"></td>
+	<td><img src="https://github.com/Neoblacks/Vscode-Shortcuts/blob/main/ressources/Ctrl%20+%20k%20and%20Ctrl%20+%20f.gif?raw=true" alt="Ctrl-k-and-Ctrl-f" border="0"></td>
   </tr>
   <tr>
-	<td>Ctrl + Shift + F</td>
-	<td>Search all occurence inside the folder</td>
-	<td><img src="https://i.ibb.co/LSN16HS/Ctrl-shift-f.gif" alt="Ctrl-shift-f" border="0"></td>
+    <td>Ctrl + Shift + F</td>
+    <td>Search all occurence inside the folder</td>
+    <td><img src="https://github.com/Neoblacks/Vscode-Shortcuts/blob/main/ressources/Ctrl+shift+f.gif?raw=true" alt="Ctrl-shift-f" border="0"></td>
+  </tr>
+   <tr>
+    <td>Ctrl + J</td>
+    <td>Open and close a terminal</td>
+    <td><img src="https://github.com/Neoblacks/Vscode-Shortcuts/blob/main/ressources/Ctrl%20+%20j.gif?raw=true" alt="Ctrl-shift-f" border="0"></td>
   </tr>
 </table>
