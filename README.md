@@ -31,9 +31,9 @@ Welcome to the Keyboard Shortcuts repository for Visual Studio Code. Here you ca
 
 <table>
   <tr>
-    <th style="width: 20%;">Shortcut</th>
-    <th style="width: 50%;">Description</th>
-    <th style="width: 30%;">Example</th>
+    <th style="width: 40%;">Shortcut</th>
+    <th style="width: 40%;">Description</th>
+    <th style="width: 20%;">Example</th>
   </tr>
   <tr>
     <td>Ctrl + /</td>
