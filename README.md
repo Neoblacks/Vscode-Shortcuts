@@ -33,8 +33,8 @@ Welcome to the Keyboard Shortcuts repository for Visual Studio Code. Here you ca
 <table>
   <tr>
     <th style="width: 20%;">Shortcut</th>
-    <th style="width: 30%;">Description</th>
-    <th style="width: 50%;">Example</th>
+    <th style="width: 50%;">Description</th>
+    <th style="width: 30%;">Example</th>
   </tr>
   <tr>
     <td>Ctrl + /</td>
@@ -64,7 +64,7 @@ Welcome to the Keyboard Shortcuts repository for Visual Studio Code. Here you ca
   <tr>
 	<td>Ctrl + L</td>
 	<td>Select line or few lines</td>
-	<td><<img src="https://i.ibb.co/hfh6QxD/Ctrl-l-and-tab-or-Shift-tab.gif" alt="Ctrl-l-and-tab-or-Shift-tab" border="0"></td>
+	<td><img src="https://i.ibb.co/hfh6QxD/Ctrl-l-and-tab-or-Shift-tab.gif" alt="Ctrl-l-and-tab-or-Shift-tab" border="0"></td>
   </tr>
   <tr>
 	<td>Ctrl + K + Ctrl + F</td>
